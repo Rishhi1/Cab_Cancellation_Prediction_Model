@@ -52,7 +52,7 @@ st.markdown("""
 
 /* Subtitle */
 .subtitle {
-    color: #B4182D;
+    color: #E1D4C2;
     text-align: center;
 }
 
